@@ -2,7 +2,7 @@
 * Instagram (also called IG or Insta) is a photo and video sharing application that allows users to take photos, take videos, apply digital filters and share them to various social networking services, including Instagram's own.
 * Instagram Tools Based on NodeJS (This script or code was created by ccocot - Aldi Nugraha).
 
-[![Build](https://img.shields.io/badge/Codename_-_officialputuid-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Codename_-_Cyberk4nd4S-brightgreen.svg)]()
 [![License](http://img.shields.io/:license-MIT-brightgreen.svg?style=flat)](LICENSE)
 [![Badges](https://img.shields.io/badge/badges-%F0%9F%91%8D-brightgreen.svg)](https://shields.io/)
 
