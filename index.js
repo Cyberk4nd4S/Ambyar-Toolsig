@@ -122,7 +122,7 @@ const main = async () => {
 console.log(chalk `{bold.green
   Ξ TITLE  : Instagram Private Tools x toolsig v2
   Ξ CODEBY : Cyberk4nd4S
-  Ξ UPDATE : Gawa Ilham Fajar Ramadhan [26/01/2020]
+  Ξ UPDATE : Cyberk4nd4S [26/01/2020]
   Ξ FILES  : https://github.com/Cyberk4nd4S/Ambyar-Toolsig
   }`);
 console.log(chalk `{bold.red   •••••••••••••••••••••••••••••••••••••••••}`);
@@ -133,7 +133,7 @@ console.log(chalk `{bold.red   ••••••••••••••••�
 console.log(chalk `{bold.yellow
   Ξ THANKS : Instagram Private Tools [Original Source File]
            : Zerobyte.ID | BC0DE.NET | NAONLAH.NET | WingkoColi | Cyberk4nd4S
-           : Script ini diciptakan saat tersakiti oleh MANTAN!!}`);
+           : Lali Rupane Iling Rasane (uuhh aahh croott)}`);
 console.log('\n')
 main();
 //by 1dcea8095a18ac73b764c19e40644b5
