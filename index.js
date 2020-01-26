@@ -121,10 +121,9 @@ const main = async () => {
 
 console.log(chalk `{bold.green
   Ξ TITLE  : Instagram Private Tools x toolsig v2
-  Ξ UPLOAD : c:/users/officialputuid/toolsig
-  Ξ CODEBY : Aldi Nugraha [Ccocot Ccocot]
-  Ξ UPDATE : officialputuid [07/01/2020]
-  Ξ FILES  : https://github.com/officialputuid/toolsig
+  Ξ CODEBY : Cyberk4nd4S
+  Ξ UPDATE : Gawa Ilham Fajar Ramadhan [26/01/2020]
+  Ξ FILES  : https://github.com/Cyberk4nd4S/Ambyar-Toolsig
   }`);
 console.log(chalk `{bold.red   •••••••••••••••••••••••••••••••••••••••••}`);
 console.log("  Ξ START  : ".bold.red + moment().format('D MMMM YYYY, h:mm:ss a'));
@@ -133,8 +132,8 @@ console.log("  Ξ YOUIP  : ".bold.red + addresses);
 console.log(chalk `{bold.red   •••••••••••••••••••••••••••••••••••••••••}`);
 console.log(chalk `{bold.yellow
   Ξ THANKS : Instagram Private Tools [Original Source File]
-           : Zerobyte.ID | BC0DE.NET | NAONLAH.NET | WingkoColi
-           : ccocot@bc0de.net and Thank's To SGB TEAM REBORN}`);
+           : Zerobyte.ID | BC0DE.NET | NAONLAH.NET | WingkoColi | Cyberk4nd4S
+           : Script ini diciptakan saat tersakiti oleh MANTAN!!}`);
 console.log('\n')
 main();
 //by 1dcea8095a18ac73b764c19e40644b5
